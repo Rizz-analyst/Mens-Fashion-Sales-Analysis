@@ -160,6 +160,22 @@ snap of new calculated column,
 
 <img width="1413" height="726" alt="Image" src="https://github.com/user-attachments/assets/a7437b29-a22d-41d1-9678-fdac4e120716" />
 
+- step 19 : Creating Power BI App
+
+  A Power BI App was created from the workspace to make the dashboard easily accessible.
+
+  The app allows users to:
+
+             Access the dashboard through a single link
+
+             Share reports with stakeholders
+
+             Provide a structured navigation experience
+
+  # Rwport Snapshot (Power BI App)
+
+  
+
 # Insights
 
 A multi-page dashboard was created on Power BI Desktop and published to Power BI Service.
