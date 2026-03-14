@@ -174,7 +174,7 @@ snap of new calculated column,
 
   # Rwport Snapshot (Power BI App)
 
-  
+  <img width="1907" height="858" alt="Image" src="https://github.com/user-attachments/assets/9dd3c14d-0894-41f9-92ae-584c73b91707" />
 
 # Insights
 
